@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3fb02bc-ada8-42b7-8fbc-d2c49d98531d" name="Default Changelist" comment="">
+    <list default="true" id="a13f0c5d-a202-4b29-b95b-84585e5c4048" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SoNguyento.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Sesson 1/doc so thanh chu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sesson 1/doc so thanh chu/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Sesson 1/doc so thanh chu/out/production/doc so thanh chu/ReadNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sesson 1/doc so thanh chu/out/production/doc so thanh chu/ReadNumber.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Sesson 1/doc so thanh chu/src/ReadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sesson 1/doc so thanh chu/src/ReadNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ung dung tinh tien lai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ung dung tinh tien lai/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Money.java">
+        <entry file="file://$PROJECT_DIR$/src/SoNguyento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+            <state relative-caret-position="484">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -43,7 +45,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Money.java" />
+        <option value="$PROJECT_DIR$/src/SoNguyento.java" />
       </list>
     </option>
   </component>
@@ -60,29 +62,35 @@
     <option name="width" value="1270" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ung dung tinh tien lai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ung dung tinh tien lai" type="462c0819:PsiDirectoryNode" />
+              <item name="hien thi so nguyen to dau tien" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hien thi so nguyen to dau tien" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hien thi so nguyen to dau tien" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hien thi so nguyen to dau tien" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -101,16 +109,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Money" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Money" />
-      <module name="ung dung tinh tien lai" />
+    <configuration name="SoNguyento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SoNguyento" />
+      <module name="hien thi so nguyen to dau tien" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Money" />
+        <item itemvalue="Application.SoNguyento" />
       </list>
     </recent_temporary>
   </component>
@@ -119,17 +127,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b3fb02bc-ada8-42b7-8fbc-d2c49d98531d" name="Default Changelist" comment="" />
-      <created>1559659422656</created>
+      <changelist id="a13f0c5d-a202-4b29-b95b-84585e5c4048" name="Default Changelist" comment="" />
+      <created>1559660142192</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559659422656</updated>
-      <workItem from="1559659426604" duration="686000" />
+      <updated>1559660142192</updated>
+      <workItem from="1559660143780" duration="173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="686000" />
+    <option name="totallyTimeSpent" value="173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -170,10 +178,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Money.java">
+    <entry file="file://$PROJECT_DIR$/src/SoNguyento.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        <state relative-caret-position="484">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="27" />
         </state>
       </provider>
     </entry>
