@@ -1,13 +1,4 @@
 public class SoNguyento {
-    public static void main(String[] args) {
-        System.out.println("Số nguyên tố nhỏ hơn 100");
-        for (int i = 0; i <= 100; i++) {
-            if (check_Primes(i)) {
-                System.out.println(i);
-            }
-        }
-    }
-
     public static boolean check_Primes(int num) {
         boolean flag = true;
         if (num < 2) {
@@ -21,5 +12,14 @@ public class SoNguyento {
             }
         }
         return flag;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("Số nguyên tố nhỏ hơn 100");
+        for (int i = 0; i <= 100; i++) {
+            if (check_Primes(i)) {
+                System.out.println(i);
+            }
+        }
     }
 }
