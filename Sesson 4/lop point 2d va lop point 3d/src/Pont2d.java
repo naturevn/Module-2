@@ -42,8 +42,7 @@ public class Pont2d {
         return "X : "
                 + getX()
                 + " Y : "
-                + getY()
-                + " Z : ";
+                + getY();
     }
 
     public static void main(String[] args) {
