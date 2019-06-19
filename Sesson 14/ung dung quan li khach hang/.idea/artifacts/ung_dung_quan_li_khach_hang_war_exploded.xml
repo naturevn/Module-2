@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ung dung quan li khach hang:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ung_dung_quan_li_khach_hang_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ung dung quan li khach hang/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ung dung quan li khach hang" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="F:/PM/3Si/tomcat/webapps/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" />
+          <element id="file-copy" path="F:/PM/3Si/tomcat/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
